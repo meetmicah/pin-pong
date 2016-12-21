@@ -8,4 +8,4 @@ The player who made the play resulting in this card being drawn is given the tit
 
 ### Card Text:
 **Time Lord**
-The player who caused the draw becomes the Time Lord for the remainder of the game. If the Time Lord is serving and the opposing team scores the winning point the Time Lord can replay the point until thier team scores.
+The player who caused the draw becomes the Time Lord for the remainder of the game. If the Time Lord is serving and the opposing team scores the winning point the Time Lord can replay the point until their team scores.
